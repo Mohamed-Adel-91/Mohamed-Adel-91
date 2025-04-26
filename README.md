@@ -34,7 +34,22 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,nodejs,express,mongodb,html,css,bootstrap,jest,docker,aws,git,github,vscode" />
+  <h1>Basics</h1>
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" />
+</p>
+  <h1>Top Framworks and Languages</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,dotnet,mysql" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
+</p>
+  <h1>Helpers, Deployment and Testing</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,docker,aws,git,github,vscode" />
 </p>
 
 ---
