@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=25">
 </h1>
 
 <h3 align="center">💻 Full-Stack Developer | 🚀 PHP Laravel Spacialist | 🇪🇬 Egypt</h3>
@@ -10,7 +10,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Mohamed-Adel-91?label=Followers&style=social" alt="GitHub Followers" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Repositories-🔰%20{your-repo-count}-brightgreen" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-🔰%20{56}-brightgreen" alt="Repositories" />
 </p>
 ---
 
@@ -30,7 +30,26 @@
 - ⚡ Fun Fact: **Coding + Coffee = Happiness ☕**
 
 ---
-<p align="left"> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://wa.me/2{your-number}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/your-channel-id"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://your-website.com/path-to-your-cv.pdf"><img src="https://img.shields.io/badge/Download_CV-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a> </p>
+<p align="left"> 
+  <a href="mailto:mohamed101291@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  <a href="https://wa.me/2{01067000662}">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/mohamed-adel-661131245">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.youtube.com/@MohamedAdel-91">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a> 
+<!--   <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="https://your-website.com/path-to-your-cv.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>  -->
+</p>
 
 ### 🛠️ Tech Stack:
 <p align="center">
