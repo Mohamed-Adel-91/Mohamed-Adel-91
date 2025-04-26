@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=22">
 </h1>
 
 <h3 align="center">💻 Full-Stack Developer | 🚀 PHP Laravel Spacialist | 🇪🇬 Egypt</h3>
@@ -10,7 +10,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Mohamed-Adel-91?label=Followers&style=social" alt="GitHub Followers" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Repositories-🔰%20{56}-brightgreen" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-🔰%2056-brightgreen" alt="Repositories" />
 </p>
 ---
 
@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on **Laravel open-source projects**
 - 📫 Reach me:
   - ✉️ Email: **mohamed101291@gmail.com**
-  - 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/2{01067000662})
+  - 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/201067000662)
   - 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mohamed-adel-661131245/)
   - 📺 YouTube: [Visit my YouTube Channel](https://www.youtube.com/@MohamedAdel-91)
   - 🌐 Website: [Visit my Website](https://your-website.com)
@@ -30,26 +30,7 @@
 - ⚡ Fun Fact: **Coding + Coffee = Happiness ☕**
 
 ---
-<p align="left"> 
-  <a href="mailto:mohamed101291@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> 
-  <a href="https://wa.me/2{01067000662}">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/mohamed-adel-661131245">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://www.youtube.com/@MohamedAdel-91">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a> 
-<!--   <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-  <a href="https://your-website.com/path-to-your-cv.pdf">
-    <img src="https://img.shields.io/badge/Download_CV-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>  -->
-</p>
+
 
 ### 🛠️ Tech Stack:
 <p align="center">
@@ -81,9 +62,28 @@
 <p align="center">
   <a href="https://github.com/Mohamed-Adel-91" target="_blank"><img src="https://img.shields.io/github/followers/Mohamed-Adel-91?label=Follow%20Me&style=social"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-adel-661131245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<!--   <a href="https://www.linkedin.com/in/mohamed-adel-661131245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> -->
 </p>
-
+<p align="center"> 
+  <a href="mailto:mohamed101291@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  <a href="https://wa.me/201067000662">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/mohamed-adel-661131245">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.youtube.com/@MohamedAdel-91">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a> 
+<!--   <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="https://your-website.com/path-to-your-cv.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>  -->
+</p>
 ---
 
 <p align="center">
