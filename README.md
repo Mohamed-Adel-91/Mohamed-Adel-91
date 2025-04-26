@@ -21,11 +21,11 @@
 - 👯 I’m looking to collaborate on **Laravel open-source projects**
 - 📫 Reach me:
   - ✉️ Email: **mohamed101291@gmail.com**
-  - 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/201067000662)
-  - 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mohamed-adel-661131245/)
-  - 📺 YouTube: [Visit my YouTube Channel](https://www.youtube.com/@MohamedAdel-91)
-  - 🌐 Website: [Visit my Website](https://your-website.com)
-  - 📄 Download CV: [Click to Download](https://your-website.com/path-to-your-cv.pdf)
+  - 📱 WhatsApp: **[Chat on WhatsApp](https://wa.me/201067000662)**
+  - 💼 LinkedIn: **[Connect on LinkedIn](https://www.linkedin.com/in/mohamed-adel-661131245/)**
+  - 📺 YouTube: **[Visit my YouTube Channel](https://www.youtube.com/@MohamedAdel-91)**
+  - 🌐 Website: **[Visit my Website](https://your-website.com)**
+  - 📄 Download CV: **[Click to Download](https://your-website.com/path-to-your-cv.pdf)**
 - 🧠 **"Good code is its own best documentation."**
 - ⚡ Fun Fact: **Coding + Coffee = Happiness ☕**
 
@@ -65,22 +65,22 @@
 <!--   <a href="https://www.linkedin.com/in/mohamed-adel-661131245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> -->
 </p>
 <p align="center"> 
-  <a href="mailto:mohamed101291@gmail.com">
+  <a href="mailto:mohamed101291@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
-  <a href="https://wa.me/201067000662">
+  <a href="https://wa.me/201067000662" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a> 
-  <a href="https://www.linkedin.com/in/mohamed-adel-661131245">
+  <a href="https://www.linkedin.com/in/mohamed-adel-661131245" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://www.youtube.com/@MohamedAdel-91">
+  <a href="https://www.youtube.com/@MohamedAdel-91" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a> 
-<!--   <a href="https://your-website.com">
+<!--   <a href="https://your-website.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://your-website.com/path-to-your-cv.pdf">
+  <a href="https://your-website.com/path-to-your-cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>  -->
 </p>
