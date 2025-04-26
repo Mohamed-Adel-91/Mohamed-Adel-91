@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;-A+Passionate+Backend+Developer;-Always+Learning+New+Things!&center=true&size=30">
 </h1>
 
 <h3 align="center">💻 Full-Stack Developer | 🚀 Laravel Enthusiast | 🇪🇬 Egypt</h3>
@@ -26,7 +26,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,node,js,html,css,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,nodejs,express,mongodb,html,css,bootstrap,jest,docker,aws,git,github,vscode" />
 </p>
 
 ---
