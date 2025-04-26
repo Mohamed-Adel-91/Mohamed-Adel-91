@@ -1,16 +1,17 @@
 <!-- Hi there 👋 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;-A+Passionate+Backend+Developer;-Always+Learning+New+Things!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=50">
 </h1>
 
-<h3 align="center">💻 Full-Stack Developer | 🚀 Laravel Enthusiast | 🇪🇬 Egypt</h3>
+<h3 align="center">💻 Full-Stack Developer | 🚀 PHP Laravel Spacialist | 🇪🇬 Egypt</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Adel-91&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Mohamed-Adel-91?label=Followers&style=social" alt="GitHub Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Repositories-🔰%20{your-repo-count}-brightgreen" alt="Repositories" />
 </p>
-
 ---
 
 ### 🚀 About Me:
@@ -18,11 +19,18 @@
 - 🔭 Currently Working as Backend Developer at: **[Icon Creations](https://icon-creations.com/)**
 - 🌱 I’m currently diving deeper into **Laravel, PHP, and advanced backend systems**
 - 👯 I’m looking to collaborate on **Laravel open-source projects**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohamed-adel-661131245/)**
+- 📫 Reach me:
+  - ✉️ Email: **mohamed101291@gmail.com**
+  - 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/2{01067000662})
+  - 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mohamed-adel-661131245/)
+  - 📺 YouTube: [Visit my YouTube Channel](https://www.youtube.com/@MohamedAdel-91)
+  - 🌐 Website: [Visit my Website](https://your-website.com)
+  - 📄 Download CV: [Click to Download](https://your-website.com/path-to-your-cv.pdf)
 - 🧠 **"Good code is its own best documentation."**
 - ⚡ Fun Fact: **Coding + Coffee = Happiness ☕**
 
 ---
+<p align="left"> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://wa.me/2{your-number}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/your-channel-id"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://your-website.com/path-to-your-cv.pdf"><img src="https://img.shields.io/badge/Download_CV-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a> </p>
 
 ### 🛠️ Tech Stack:
 <p align="center">
@@ -46,14 +54,6 @@
 ### 🔥 GitHub Streak:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohamed-Adel-91&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Adel-91&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Adel-91&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 ---
