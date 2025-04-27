@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=22">
 </h1>
 
-<h3 align="center">💻 Full-Stack Developer | 🚀 PHP Laravel Spacialist | 🇪🇬 Egypt</h3>
+<h3 align="center">💻 Backend Developer | 🚀 PHP Laravel Spacialist | 🇪🇬 Egypt</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Adel-91&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -42,19 +42,20 @@
   <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" />
 </p>
   <h1>Database</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
 </p>
   <h1>Helpers, Deployment and Testing</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,docker,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=bash,jest,docker,aws,git,github,vscode,notion" />
 </p>
+
 
 ---
 
