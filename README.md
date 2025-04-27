@@ -33,19 +33,23 @@
 
 
 ### 🛠️ Tech Stack:
-<p align="center">
   <h1>Basics</h1>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" />
 </p>
   <h1>Top Framworks and Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,dotnet,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,dotnet" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express" />
+</p>
+  <h1>Database</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
   <h1>Helpers, Deployment and Testing</h1>
 <p align="center">
