@@ -41,10 +41,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
-<--!
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet" />
-</p> -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" />
 </p>
