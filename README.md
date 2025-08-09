@@ -41,9 +41,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs" />
-</p>
+
   <h1>Database</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
