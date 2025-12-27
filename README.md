@@ -22,7 +22,7 @@
 - 📫 Reach me:
   - ✉️ Email: **mohamed101291@gmail.com**
   - 📱 WhatsApp: **[Chat on WhatsApp](https://wa.me/201067000662)**
-  - 💼 LinkedIn: **[Connect on LinkedIn](https://www.linkedin.com/in/mohamed-adel-661131245/)**
+  - 💼 LinkedIn: **[Connect on LinkedIn](https://www.linkedin.com/in/mohamed-adel-nouh/)**
   - 📺 YouTube: **[Visit my YouTube Channel](https://www.youtube.com/@MohamedAdel-91)**
   - 🌐 Website: **[Visit my Website](https://mohamed-nouh.com)**
   - 📄 Download CV: **[Click to Download](https://mohamed-nouh.com/upload/cv/17650599916brpK24szLOKDK3l4lNp.pdf)**
