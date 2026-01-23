@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Backend+Developer;Always+Learning+New+Things!&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Adel!;A+Passionate+Software+Developer;Always+Learning+New+Things!&center=true&size=22">
 </h1>
 
 <h3 align="center">💻 Software Developer | 🚀 PHP Laravel Spacialist | 🇪🇬 Egypt</h3>
@@ -39,7 +39,7 @@
 </p>
   <h1>Top Framworks and Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react" />
 </p>
 
   <h1>Database</h1>
