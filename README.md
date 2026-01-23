@@ -17,7 +17,7 @@
 ### 🚀 About Me:
 
 - 🔭 Currently Working as Software Developer at: **[Icon Creations](https://icon-creations.com/)**
-- 🌱 I’m currently diving deeper into **Laravel, PHP, and advanced backend systems**
+- 🌱 I’m currently diving deeper into **Laravel, PHP, and advanced software from system Design to Deployment**
 - 👯 I’m looking to collaborate on **Laravel open-source projects**
 - 📫 Reach me:
   - ✉️ Email: **mohamed101291@gmail.com**
