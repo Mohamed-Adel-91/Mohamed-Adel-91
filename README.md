@@ -66,18 +66,12 @@
 
 ---
 
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Adel-91&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Let's Connect:
 <p align="center">
   <a href="https://github.com/Mohamed-Adel-91" target="_blank"><img src="https://img.shields.io/github/followers/Mohamed-Adel-91?label=Follow%20Me&style=social"></a>
   &nbsp;&nbsp;
-<!--   <a href="https://www.linkedin.com/in/mohamed-adel-661131245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> -->
+<a href="https://www.linkedin.com/in/mohamed-adel-nouh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 <p align="center"> 
   <a href="mailto:mohamed101291@gmail.com" target="_blank">
