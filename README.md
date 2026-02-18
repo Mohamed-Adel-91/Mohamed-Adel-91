@@ -42,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,react" />
 </p>
 
+
   <h1>Database</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
@@ -49,6 +50,11 @@
   <h1>Helpers, Deployment and Testing</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,jest,docker,aws,git,github,vscode,notion" />
+</p>
+
+  <h1>Data Science and Cloud</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,anaconda,django,pytorch,tensorflow,terraform,ubuntu,vim,elasticsearch" />
 </p>
 
 
