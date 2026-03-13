@@ -39,7 +39,7 @@
 </p>
   <h1>Top Framworks and Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,py" />
 </p>
 
 
