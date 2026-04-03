@@ -10,7 +10,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Mohamed-Adel-91?label=Followers&style=social" alt="GitHub Followers" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Repositories-🔰%2075-brightgreen" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-🔰%2084-brightgreen" alt="Repositories" />
 </p>
 ---
 
