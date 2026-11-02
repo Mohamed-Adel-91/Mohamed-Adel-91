@@ -35,11 +35,11 @@
 ### 🛠️ Tech Stack:
   <h1>Basics</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=php,py,js,ts,html,css,bootstrap" />
 </p>
   <h1>Top Framworks and Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,py" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,next,flutter,kotlin,dart" />
 </p>
 
 
